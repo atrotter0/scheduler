@@ -1,5 +1,12 @@
 .sm-panel {
   width: 50%;
   margin: 20px auto 0px auto;
+}
 
+.details h4 {
+
+}
+
+.details p {
+  margin-top: 20px 0 30px 20px;
 }
