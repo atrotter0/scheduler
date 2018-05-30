@@ -12,4 +12,8 @@ $(document).ready(function() {
   $("#reset").click(function() {
     resetForm();
   });
+
+  $("#submit").click(function(e) {
+    e.preventDefault();
+  });
 });
