@@ -31,8 +31,5 @@ $(document).ready(function() {
 
   $("#confirm").click(function() {
     resetForm();
-    $("body").removeClass("modal-open");
-    $("#basicModal").removeClass("in");
-    $(".modal-backdrop").remove();
   });
 });
