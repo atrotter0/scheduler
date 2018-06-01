@@ -1,12 +1,12 @@
 # Scheduler
 
-#### Epicodus Intro to Programming lesson, 05.29.2018
+#### Epicodus Intro to Programming lesson, 05.30.2018
 
 #### By Abel Trotter and Nate Cottle
 
 ## Description
 
-A simple appointment scheduler built with JS, jQuery, and Bootstrap.
+A simple appointment scheduler built with JS, jQuery, jQuery UI, and Bootstrap.
 
 ## Setup/Contribution Requirements
 
@@ -22,6 +22,7 @@ A simple appointment scheduler built with JS, jQuery, and Bootstrap.
 * Bootstrap v3.3.7
 * JavaScript
 * jQuery v3.3.1
+* jQuery UI
 
 ## Links
 
